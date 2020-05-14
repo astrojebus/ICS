@@ -1,0 +1,7 @@
+Used Algorithm: XOR
+
+Key A (return sentences1)
+60 5C 01 12 06 59 52 5B 53 54 42 19 0C 05 45 45 17 05 53 55 47 40 19 59 13 54 16 01 0D 5C 54 17
+
+Key B (return sentences2)
+7A 5B 13 1E 45 45 5B 50 10 52 59 58 0D 00 00 45 42 07 42 55 14 5D 56 4C 41 42 59 46 05 5C 5F 52
